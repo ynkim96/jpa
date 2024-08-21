@@ -31,7 +31,7 @@ Hibernate는 SQL을 직접 사용하지 않고, 메서드 호출만으로 쿼리
         <artifactId>hibernate-core</artifactId>
         <version>6.4.2.Final</version>
 </dependency>
-
+```
 
 #### persistence.xml
 ###### 위치 : resources/META-INF/persistence.xml
