@@ -7,7 +7,9 @@
         <artifactId>hibernate-core</artifactId>
         <version>6.4.2.Final</version>
 </dependency>
+```
 ***
+
 #### persistence.xml
 ```ruby
 <?xml version="1.0" encoding="UTF-8"?>
